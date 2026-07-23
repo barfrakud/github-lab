@@ -1,2 +1,4 @@
-# github-lab
-Repozytorium do nauki githab
+# Proejkt github-lab
+
+## Cel
+Celem repozytorium jest nauka Github.
