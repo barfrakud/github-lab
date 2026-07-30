@@ -6,3 +6,9 @@ Celem jest przyswojenie wiedzy i zwiększenie umiejętności korzystania z GitHu
 
 ## Scenariusz 1
 <do uzupełnienia>
+
+## Scenariusz 2
+<do uzupełnienia>
+
+## Scenariusz 3
+<do uzupełnienia>
